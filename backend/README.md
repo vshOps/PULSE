@@ -1,4 +1,4 @@
-# PULSE Backend.
+# PULSE Backend
 
 This is the FastAPI backend for the PULSE project, ready to be deployed to Hugging Face.
 
